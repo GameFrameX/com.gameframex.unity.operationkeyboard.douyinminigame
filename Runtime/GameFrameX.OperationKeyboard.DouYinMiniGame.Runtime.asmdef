@@ -1,0 +1,25 @@
+{
+    "name": "GameFrameX.OperationKeyboard.DouYinMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.OperationKeyboard.DouYinMiniGame.Runtime",
+    "references": [
+        "GameFrameX.Runtime",
+        "GameFrameX.OperationKeyboard.Runtime",
+        "TTWebGL",
+        "TTLitJson"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.bytedance.starksdk",
+            "expression": "",
+            "define": "ENABLE_DOUYIN_MINI_GAME_OPERATIONKEYBOARD"
+        }
+    ],
+    "noEngineReferences": false
+}

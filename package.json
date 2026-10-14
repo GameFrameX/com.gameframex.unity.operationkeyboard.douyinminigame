@@ -1,0 +1,39 @@
+{
+  "name": "com.gameframex.unity.operationkeyboard.douyinminigame",
+  "displayName": "Game Frame X Operation Keyboard (DouYin Mini Game)",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "DouYin Mini Game keyboard adapter for GameFrameX OperationKeyboard. Self-registers into OperationKeyboardRegistry at startup via DouYinMiniGameOperationKeyboardBootstrap (code is stripped and registration does not happen when UNITY_WEBGL / ENABLE_DOUYIN_MINI_GAME / ENABLE_DOUYIN_MINI_GAME_OPERATIONKEYBOARD macros are not enabled; installation implies registration).\n\nGameFrameX OperationKeyboard 的抖音小游戏键盘适配渠道包。通过 DouYinMiniGameOperationKeyboardBootstrap 在启动阶段自注册进主包 OperationKeyboardRegistry（宏 UNITY_WEBGL / ENABLE_DOUYIN_MINI_GAME / ENABLE_DOUYIN_MINI_GAME_OPERATIONKEYBOARD 未启用时代码被裁剪，注册不会发生；引用即注册）。",
+  "author": {
+    "name": "Blank",
+    "email": "alianblank@outlook.com",
+    "url": "https://gameframex.doc.alianblank.com"
+  },
+  "dependencies": {
+    "com.gameframex.unity": "2.5.4",
+    "com.gameframex.unity.operationkeyboard": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame.git",
+    "name": "com.gameframex.unity.operationkeyboard.douyinminigame"
+  },
+  "documentationUrl": "https://gameframex.doc.alianblank.com",
+  "changelogUrl": "https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/blob/main/LICENSE.md",
+  "devDependencies": {
+    "semantic-release": "^24.2.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.cnb.cool/GameFrameX/npm/-/packages/"
+  },
+  "category": "GameFrameX",
+  "keywords": [
+    "GameFrameX",
+    "OperationKeyboard",
+    "DouYinMiniGame"
+  ]
+}
