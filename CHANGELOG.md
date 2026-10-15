@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/compare/1.0.0...1.0.1) (2026-10-15)
+
+
+### Bug Fixes
+
+* **douyinminigame:** Preserve 改为全限定特性引用 ([edb00de](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/commit/edb00dec6006a149baae49f94e068a530e910ff5))
+
 # 1.0.0 (2026-10-14)
 
 
