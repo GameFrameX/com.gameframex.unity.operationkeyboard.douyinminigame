@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/compare/1.0.1...1.0.2) (2026-11-10)
+
+
+### Bug Fixes
+
+* **operationkeyboard.douyinminigame:** 添加完整 link.xml 防代码裁剪保护 ([5a2b946](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/commit/5a2b946508b4fea0d8dae4c6fe97aa557269c8c5))
+
 ## [1.0.1](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.douyinminigame/compare/1.0.0...1.0.1) (2026-10-15)
 
 
